@@ -71,7 +71,6 @@ didUserLike() {
     if(this.didUserLike()){
       likeButtonText = "Unlike";
     }
-
     //Render using data from state
   var data = this.state;
   var contents;
